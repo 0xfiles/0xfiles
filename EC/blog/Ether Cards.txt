@@ -1,0 +1,25 @@
+What is an NFT?
+An NFT (Non-Fungible-Token) is a programmable digital asset that is one-of-a-kind and non-interchangeable. NFTs can be digital assets or a tokenized representation of real-world assets. Authenticity and proof of ownership are verified on the blockchain.
+
+Featured artists: Clicking on the card will open Explorer.
+
+Ether Cards NFT
+Ether Cards is an NFT framework based on the ERC-721 Ethereum token standard. Ether Cards consists of two parts: the platform and the NFT.
+
+Ether Cards Platform
+The platform will provide tools to gamify and supercharge any ERC-721 NFT. Anyone can create an NFT or add utility, monetization, and customization to existing compatible NFTs. The platform is currently being developed, and Ether Cards plans to integrate with other platforms in the future. However, new features will go live on a rolling basis.
+
+Ether Cards NFT
+Ether Cards launched the main NFT sale in March with 10,000 limited-edition Ether Cards in three tiers: OG, Alpha, and Founder. Sales totaled $9 million in the first 24 hours. The inaugural 3-week sale period saw some buyers paying 55 ETH for OGs, 10 ETH for Alphas, and 1.75 ETH for Founders, respectively. 
+The NFT cards are live and currently trading on the NFT marketplace OpenSea.  The cards feature amazing artwork from digital artists and range in rarity depending on traits and tier levels. The cards display different layer images that can be forged to create an entirely new art by the card owner using the Ether Cards platform. 
+Art collectors value the rarity of an artwork, but Ether Cards is more than just collectible digital art. Ether Cards can verify ownership of other assets, access events & communications streams, and engage other platforms. The cards are embedded with traits that enable special privileges, unlock bonuses and upgrades, and add gamification features. 
+
+FORGE - BATTLE - BURN
+Gamification is a very exciting highlight that will soon be introduced on the Ether Cards platform. Everyone's excited about the first roll-out called the Forge. A collector can use the platform to change the art on a card by combining the desired layers and traits between 2 cards to forge a new version of a card—one card has to be sacrificed or burned to do this if you don't possess a "Forge Protector" trait. Subsequent platform roll-outs such as Battle Royal will pit collectors against each other to win a CryptoPunk or other prizes. Other features like Magic Dust, Mystery Box, and Skill Tree will also be rolling out. NFT owners can engage with others and strategize to HODL, forge, battle, or burn on the Ether Cards platform.
+
+Community
+Community is where Ether Cards shine. Their Discord group is very active, discussing OpenSea trading, price action, card traits, rarities, and related info. Some members like DrEthereum took the initiative to compile statistics with Dune Analytics. Another member, John, built a Discord trait bot and a Twitter bot to track transactions. JohnnyBull has a YouTube Ether Cards information channel that is popular with members. Other notable members like Schoad, Moonfarm, Jerry, and BadRobotGreen have contributed informational resources or positive community engagement. More members continue to offer ideas and resources that help organically conceive a rich ecosystem that supports Ether Cards.
+Ether Cards Founder Andras Kristof is keen on recognizing the tremendous help the community has given. Andras awarded some of these members with Supporter traits to acknowledge their support. Andras frequently joins in the discussions and provides regular updates and video AMAs. 
+Ether Cards continues to develop and adjust to the evolving nature of nascent technology. Other NFT projects have emerged, and competition is heating up. The ones who continue to innovate and refuse to stand still will lead the pack. The Ether Cards team and its community of supporters continue to work together to build a strong foundation of success for the Ether Cards ecosystem and platform. Learn more about Ether Cards and join us on Twitter and Discord.
+
+Let's build this thing.
